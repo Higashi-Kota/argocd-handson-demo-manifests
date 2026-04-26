@@ -8,4 +8,4 @@ resources:
 images:
   - name: argocd-handson-demo-app
     newName: ghcr.io/higashi-kota/argocd-handson-demo-app
-    newTag: v0.1.1
+    newTag: "0.1.1"
