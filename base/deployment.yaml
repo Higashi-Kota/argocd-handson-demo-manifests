@@ -23,7 +23,7 @@ spec:
               containerPort: 8081
           env:
             - name: MESSAGE
-              value: "Step1"
+              value: "default"
           resources:
             requests:
               cpu: "100m"
